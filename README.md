@@ -15,3 +15,5 @@ Usage
 
  * View -> Layout -> Grid: 9
  * `cmd+alt+9` (OS X) or `ctrl+alt+9` (Linux, Windows)
+
+ The key shortcuts are not tested, use at your own risk.
